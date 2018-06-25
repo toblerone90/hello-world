@@ -1,2 +1,4 @@
 # hello-world
-The Greatest
+Newbie repository!
+
+Hi I'm Toblerone90. 
